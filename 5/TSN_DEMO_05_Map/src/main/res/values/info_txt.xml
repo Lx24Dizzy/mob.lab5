@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Университеты Павлодара</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>По улице Толстого есть несколько инетесных мест!</b>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Rilak</string>
+    <string name="marker1_txt_click">Rilak</string>
+    <string name="marker1_info">
+        <![CDATA[
+        Rilak
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/rilak/rilak.html</string>
+
+    <!--  -->
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Автомойка</string>
+    <string name="marker3_txt_click">Автомойка</string>
+    <string name="marker3_info">
+        <![CDATA[
+        Автомойка
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/car_wash/car_wash.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Дом</string>
+    <string name="marker4_txt_click">Дом</string>
+    <string name="marker4_info">
+        <![CDATA[
+        Дом
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/Home/home.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Аптека</string>
+    <string name="marker5_txt_click">Аптека</string>
+    <string name="marker5_info">
+        <![CDATA[
+        Аптека
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/pharmacy/pharmacy.html</string>
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">ps5</string>
+    <string name="marker6_txt_click">ps5</string>
+    <string name="marker6_info">
+        <![CDATA[
+        ps5
+        ]]>
+        </string>
+    <string name="marker6_file">file:///android_asset/ps5/ps5.html</string>
+
+    <string name="marker7_id">m7</string>
+    <string name="marker7_title">Магазин</string>
+    <string name="marker7_txt_click">Магазин</string>
+    <string name="marker7_info">
+        <![CDATA[
+        Магазин
+        ]]>
+        </string>
+    <string name="marker7_file">file:///android_asset/shop/shop.html</string>
+
+</resources>
